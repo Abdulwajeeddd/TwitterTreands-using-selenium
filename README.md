@@ -41,3 +41,6 @@ MONGO_COLLECTION_NAME=your_collection_name>
 EMAIL=<your_email>
 USERNAME=<your_username>
 PASSWORD=<your_password>
+
+#index.html contains the web scripts
+#index.js contains the javascript part
